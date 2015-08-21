@@ -1,0 +1,13 @@
+name = "Iconomist"
+description = "Provides additional theme settings for adding additional icons."
+core = 7.x
+package = "Theme settings"
+
+files[] = iconomist.module
+
+; Information added by Drupal.org packaging script on 2015-07-22
+version = "7.x-2.0-beta2"
+core = "7.x"
+project = "govcms"
+datestamp = "1437608942"
+
